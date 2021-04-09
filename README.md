@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python through the 100 days of Python Udemy course.**
 
-- 🥅 My goals for 2021 are to **Spend more time helping fellow coders on Stack Overflow, and elevate my Python skils.**
+- 🥅 My goals for 2021 are to **Spend more time helping fellow coders on Stack Overflow, and elevate my Python skills.**
 
 - ⚡ Fun fact **I am a pro knitter! 🧶**
 
