@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Michelle!</h1>
 <h3 align="center">A passionate backend developer and queen of unit testing 👑</h3>
 
-- 🔭 I’m currently working on **writing APIs in Python.**
-
 - 🌱 I’m currently learning **Python through the 100 days of Python Udemy course.**
 
 - 🥅 My goals for 2021 are to **Spend more time helping fellow coders on Stack Overflow, and elevate my Python skils.**
