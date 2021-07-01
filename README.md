@@ -1,11 +1,13 @@
 <h1 align="center">Hello, I'm Michelle!</h1>
 <h3 align="center">A passionate backend developer and unit testing enthusiast</h3>
 
-- 🌱 I’m currently learning **Python through the 100 days of Python Udemy course.**
+- 🌱 I’m currently learning: 
+  - Python through the 100 days of Python Udemy course
+  - HTML, CSS, and JavaScript with the 50 Projects in 50 Days Udemy course.
 
-- 🥅 My goals for 2021 are to **spend more time helping fellow coders on Stack Overflow, and elevate my Python skills.**
+- 💎 My goals for 2021 are to **spend more time helping fellow coders learn, and elevate my Python and JavaScript skills.**
 
-- ⚡ Fun fact **I am a pro knitter! 🧶**
+- ⚡ Fun facts **I am a pro knitter and my signature dish Chicken Parmesan! 🧶🐔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
