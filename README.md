@@ -2,12 +2,12 @@
 <h3 align="center">A passionate backend developer and unit testing enthusiast</h3>
 
 - 🌱 I’m currently learning: 
-  - Python through the 100 days of Python Udemy course
-  - HTML, CSS, and JavaScript with the 50 Projects in 50 Days Udemy course.
+  - Spring framework with "Spring & Hibernate for Beginners" on Udemy. 
+  - TDD by reading "99 Bottles of OOP" by Sandi Metz.
 
-- 💎 My goals for 2021 are to **spend more time helping fellow coders learn, and elevate my Python and JavaScript skills.**
+- 💎 My goals for 2021 are to **spend more time helping fellow developers learn, and elevate my Spring and JavaScript skills.**
 
-- ⚡ Fun facts **I am a pro knitter and my signature dish Chicken Parmesan! 🧶🐔**
+- ⚡ Fun facts **I am a pro knitter and also love to cook - my signature dish Chicken Parmesan! 🧶🐔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
