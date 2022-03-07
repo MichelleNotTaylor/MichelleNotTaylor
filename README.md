@@ -2,8 +2,8 @@
 <h3 align="center">A passionate backend developer and unit testing enthusiast</h3>
 
 - 🌱 I’m currently learning: 
-  - Spring framework with "Spring & Hibernate for Beginners" on Udemy. 
-  - TDD by reading "99 Bottles of OOP" by Sandi Metz.
+  - AWS via Udemy/Stephane Maarek
+  - React! 
 
 - 💎 My goals for 2021 are to **spend more time helping fellow developers learn, and elevate my Spring and JavaScript skills.**
 
