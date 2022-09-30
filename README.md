@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Michelle!</h1>
 <h3 align="center">A passionate backend developer and unit testing enthusiast</h3>
 
-- 🌱 I’m currently learning: 
-  - AWS via Udemy/Stephane Maarek
-  - React! 
+- 🌱 I’m currently refining my Java skills with [Tim Buchalka's Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course) on Udemy.
 
 - 💎 My goals for 2021 are to **spend more time helping fellow developers learn, and elevate my Spring and JavaScript skills.**
 
