@@ -4,7 +4,7 @@
 - 🌱 I’m studying for the AWS Certified Developer Associate exam using [Stephane Maarek's Ultimate AWS Certified Developer Associate course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/) on Udemy.
 
 
-- 💎 My goals for 2022:
+- 💎 My goals for 2025:
   - Complete the Tim Buchalka Java Programming Masterclass
   - Earn my AWS Certified Developer Associate certification
   - Read *The Pragmatic Programmer*
