@@ -17,6 +17,7 @@
 
   <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://www.svgrepo.com/show/374144/typescript.svg" width="40" height="40" alt="TypeScript"/></a>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>                  
           
 </p>
