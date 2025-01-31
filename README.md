@@ -1,6 +1,8 @@
 <h1 align="center">Hello, my name is Michelle!</h1>
 
-- 🌱 I’m currently refining my Java skills with [Tim Buchalka's Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course) on Udemy.
+- 🌱 I’m refining my Java skills with [Tim Buchalka's Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course) on Udemy.
+- 🌱 I’m studying for the AWS Certified Developer Associate exam using [Stephane Maarek's Ultimate AWS Certified Developer Associate course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/) on Udemy.
+
 
 - 💎 My goals for 2022:
   - Complete the Tim Buchalka Java Programming Masterclass
